@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm Sarthak Arsul, an aspiring AI & Machine Learning Engineer with a strong interest in NLP, deep learning, and building intelligent real-world applications. I enjoy working with Python, ML/DL frameworks, NLP, SQL, and data analytics tools to create meaningful and efficient solutions.<br><br>Outside of tech, I love writing novels, especially romance and thriller stories, and enjoy watching sci-fi and romantic films.<br><br>My long-term goal is to become a skilled NLP Engineer and contribute to innovative AI-driven products that make a real impact.
+I'm Sarthak Arsul, an aspiring AI & Machine Learning Engineer with a strong interest in NLP, deep learning, and building intelligent real-world applications. I enjoy working with Python, ML/DL frameworks, NLP, SQL, and data analytics tools to create meaningful and efficient solutions.<br><br>Outside of tech, I love writing novels, especially romance and thriller stories, and enjoy watching sci-fi and romantic films.<br><br>My long-term goal is to build an AI smart enough to do my work while I relax.
 
 
 ## 🌐 Socials:

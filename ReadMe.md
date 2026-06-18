@@ -10,7 +10,6 @@ I'm Sarthak Arsul, an aspiring AI & Machine Learning Engineer with a strong inte
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.shion.dev/api?username=sarthakarsul18&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://streak-stats.demolab.com/?user=sarthakarsul18&theme=dark&hide_border=false)<br/>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sarthakarsul18&" alt="sarthakarsul18" /></p>
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=sarthakarsul18&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ## 🏆 GitHub Trophies
@@ -18,12 +17,6 @@ I'm Sarthak Arsul, an aspiring AI & Machine Learning Engineer with a strong inte
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sarthakarsul18&show_icons=true&locale=en&layout=compact" alt="sarthakarsul18" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sarthakarsul18&show_icons=true&locale=en" alt="sarthakarsul18" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sarthakarsul18&" alt="sarthakarsul18" /></p>
 
 ---
 

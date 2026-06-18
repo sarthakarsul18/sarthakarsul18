@@ -1,6 +1,9 @@
 # 💫 About Me:
 I'm Sarthak Arsul, an aspiring AI & Machine Learning Engineer with a strong interest in NLP, deep learning, and building intelligent real-world applications. I enjoy working with Python, ML/DL frameworks, NLP, SQL, and data analytics tools to create meaningful and efficient solutions.<br><br>Outside of tech, I love writing novels, especially romance and thriller stories, and enjoy watching sci-fi and romantic films.<br><br>My long-term goal is to build an AI smart enough to do my work while I relax.
 
+Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) My name is Sarthak Arsul
+======================================================================================================================================
+
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/sarthak_a22/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/sarthak-arsul-9877471b6/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:sarthakarsul18@gmail.com) 

@@ -19,6 +19,6 @@ I'm Sarthak Arsul, an aspiring AI & Machine Learning Engineer with a strong inte
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ---
-[![](https://komarev.com/ghpvc/?username=sarthakarsul18&icon=0&color=0)](https://visitcount.itsvg.in)
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=sarthakarsul18&label=Profile views&color=0e75b6&style=flat" alt="sarthakarsul18" /> </p>
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->

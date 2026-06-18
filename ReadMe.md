@@ -12,8 +12,6 @@ I'm Sarthak Arsul, an aspiring AI & Machine Learning Engineer with a strong inte
 ![](https://streak-stats.demolab.com/?user=sarthakarsul18&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=sarthakarsul18&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-![](https://github-readme-stats.vercel.app/api?username=sarthakarsul18&show_icons=true&locale=en" alt="sarthakarsul18)<br/>
-
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=sarthakarsul18&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
@@ -21,6 +19,5 @@ I'm Sarthak Arsul, an aspiring AI & Machine Learning Engineer with a strong inte
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ---
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=sarthakarsul18&label=Profile views&color=0e75b6&style=flat" alt="sarthakarsul18" /> </p>
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->

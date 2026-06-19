@@ -15,6 +15,7 @@ I'm Sarthak Arsul, an aspiring AI & Machine Learning Engineer with a strong inte
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=sarthakarsul18&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sarthakarsul18)](https://github.com/anuraghazra/github-readme-stats)
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)

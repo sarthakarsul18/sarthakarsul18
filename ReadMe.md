@@ -17,7 +17,7 @@ I'm Sarthak Arsul, an aspiring AI & Machine Learning Engineer with a strong inte
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=sarthakarsul18&theme=high-contrast)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 ### ✍️ Codewars Stats
-![Codewars](https://github.r2v.ch/codewars?user=USERNAME&theme=gradient)
+![Codewars](https://github.r2v.ch/codewars?user=sarthakarsul18&theme=gradient)
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
